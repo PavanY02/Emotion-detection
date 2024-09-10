@@ -1,6 +1,6 @@
-# Facial Emotion Recognition - Image Classification - CNN
+# Facial Emotion Detection - Image Classification using CNN
 
-**Complete Video Tutorial:** https://youtu.be/mj-3vzJ4ZVw
+
 
 # Dataset Information
 
